@@ -1,6 +1,8 @@
 # wjk_0shuiyin
-一种基于图像轮廓的零水印方法（神经网络、代码）
-#ExCNN、ExCNNG 为神经网络代码；arnold、narnold置乱和逆置乱代码；newCanny canny算子代码；
+A zero watermarking method based on image contour (neural network, code)
+#ExCNN and ExCNNG are neural network codes; Arnold, Narnold obfuscation：reverse obfuscation code; NewCanny Canny operator code;
+#Various attack codes are included in the attack
+
 # ExCNN、ExCNNG Training Environment
 
 This project implements the **ExCNN residual encoder-decoder network** for contour/edge feature learning, with training, evaluation and image reconstruction scripts.
