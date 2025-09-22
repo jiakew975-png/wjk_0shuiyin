@@ -1,6 +1,7 @@
 # wjk_0shuiyin
 一种基于图像轮廓的零水印方法（神经网络、代码）
-# ExCNN Training Environment
+#ExCNN、ExCNNG 为神经网络代码；arnold、narnold置乱和逆置乱代码；newCanny canny算子代码；
+# ExCNN、ExCNNG Training Environment
 
 This project implements the **ExCNN residual encoder-decoder network** for contour/edge feature learning, with training, evaluation and image reconstruction scripts.
 
