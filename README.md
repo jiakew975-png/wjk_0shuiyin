@@ -54,7 +54,7 @@ a/
     └── a.png   # target image (ground truth)
 
 🚀 Training
-python train.py
+python ExCNN.py,ExCNNG.py(gray)
 
 
 The best checkpoint will be saved in saved_822_GBarbara/excnn_best.pth
@@ -62,7 +62,7 @@ The best checkpoint will be saved in saved_822_GBarbara/excnn_best.pth
 Final model will be saved in saved_822_GBarbara/excnn_final.pth
 
 🔍 Testing
-python test.py
+python test_model.py
 
 
 The reconstructed images will be saved in:
